@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ayc325?label=Follow&style=for-the-badge&logo=github&color=F8BBD0">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Web_Portfolio-EDE4DB?style=for-the-badge&link=https%3A%2F%2Fangelacui.unicornplatform.page%2F">
+  <a href="https://angelacui.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Web_Portfolio-EDE4DB?style=for-the-badge&link=https%3A%2F%2Fangelacui.unicornplatform.page%2F">
+  </a>
 </div>
 <hr>
 
